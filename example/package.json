@@ -1,0 +1,21 @@
+{
+  "name": "example",
+  "version": "1.0.0",
+  "description": "Totaljs Database Promise Example",
+  "main": "debug.js",
+  "dependencies": {
+    "sqlagent": "^11.0.4",
+    "total.js": "^2.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "totaljs",
+    "database",
+    "promise"
+  ],
+  "author": "Thao Huynh <flashvnn@gmail.com>",
+  "license": "ISC"
+}

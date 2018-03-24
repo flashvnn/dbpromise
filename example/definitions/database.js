@@ -1,0 +1,1 @@
+require('sqlagent/mysql').init('mysql://user:password@127.0.0.1/database')
